@@ -5,7 +5,8 @@ tester la modification
 <head>
 <title>Hello World!</title>
 <link rel="stylesheet" href="bluestyle.css">
-</head>
+</head> coloure  rougr
+
 <body>
 
 <h1>Hello world!</h1>
