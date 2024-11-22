@@ -7,7 +7,7 @@ tester la modification
 <link rel="stylesheet" href="bluestyle.css">
 </head> coloure  rougr
 
-<body>
+<body> coloure black
 testerr
 <h1>Hello world!</h1>
 <p>This is the first file in my new Git Repo.</p>
