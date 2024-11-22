@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  <!DOCTYPE html>
 <html>
@@ -13,3 +14,8 @@
 
 </body>
 </html> 
+=======
+
+HELLO WORLD
+This is my special repositry
+>>>>>>> origin/main
